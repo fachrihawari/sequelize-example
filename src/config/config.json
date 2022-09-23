@@ -4,6 +4,7 @@
     "password": "123456",
     "database": "phase3",
     "host": "127.0.0.1",
+    "port": 5432,
     "dialect": "postgres"
   }
 }
