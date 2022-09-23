@@ -1,6 +1,6 @@
 const HomeController = {
   home(req, res) {
-    res.status(200).send("Welcome to our Server!")
+    res.status(200).send("Sate Sete to our Server!")
   }
 }
 
